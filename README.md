@@ -6,3 +6,9 @@
 - I finalized the case study by making design changes to my report, ensuring a clean and branded presentation of the findings.
 ### Dashboard Access
 The full dashboard for this HR Analytics case study is published online. You can explore the interactive visualizations and insights by following this link: [View Full Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNzJjZjA5MmYtOTkwNi00NzcxLWEzMTItNWZlN2JjNDljNDY5IiwidCI6ImJmZmI5NzQ4LTRhNTEtNDRjOC05MjBmLTkzOGFjNDc5NzFlNSJ9)
+# HR Analytics Dashboard Report
+|Overview|Demographics|
+|--------|------------|
+|![Overview](https://github.com/elizabethwanjiku703/HR-Analytics-in-Power-BI/blob/main/Overview.jpg) |![Demographics](https://github.com/elizabethwanjiku703/HR-Analytics-in-Power-BI/blob/main/Demographics.jpg)|
+|The Overview page provides essential metrics regarding the employee population at Atlas Labs. It includes:<br> - Total Employees: A count of all employees currently at the organization.<br> - Active Employees: The number of employees currently engaged with the company.<br> - Attrition Rate: The overall attrition rate is recorded at 16.1%.<br> - Active Employees by Job Role and Department: Breakdown of active employees categorized by their respective job roles and departments.<br> - Employee Hiring Trends (2012-2022): A visual representation of hiring trends over the past decade.| The Demographics page presents a detailed analysis of employee characteristics. Key highlights include:<br>  - Age Range: The youngest employee is 18 years old, while the oldest employee is 51 years old.<br> - Employees by Age, Marital Status, Ethnicity, and Salary: Comprehensive breakdown of employees based on these demographics.<br> - Employees by Age and Gender: Visuals displaying the distribution of employees categorized by age and gender.|
+
